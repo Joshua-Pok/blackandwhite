@@ -49,4 +49,17 @@ basically if u want to save moves think about this ya
 
 also jesus christ if you can use the inneredge opponent stone to hit the edge vs hit the inside just hit the ddge becuz if you hit the inside you effectively chop 2 moves with 1 lol
 
-breaking to inner edge is bad if you still have 2 or more moves on adjacent inner edges??
+breaking to inner edge is bad if you still have 2 or more moves on adjacent inner edges and any other move will wipe them all
+break inner edge in a manner wherer you can continue
+dont need to touch places where opponent will flip 2 outer pieces just let him fk himself
+when opponent plays to a edge checkwhat move opens up on adjacent edges because he poisons his own response.
+
+
+## General Flow
+
+1) dont use brain and play opening
+2) check for opponents moves and eliminate if possible
+3) when breaking to inner edge/edge, break in a manner that can continue and also count the variations that open up because you poison your own response
+4) try not to break to inner edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
+5) when opponent breaks to edge/inner edge check what moves have opened up as a result edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
+6) conversely when playing on edges/inner edges be mindful of what moves you open up because you poison your response. 
