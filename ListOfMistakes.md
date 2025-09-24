@@ -17,7 +17,7 @@
 1) Opponent good move
 2) playing moves before they become difficult to play
 3) Odd spaces that you should jump first
-4) aiming for holes in the position
+4) aiming for holes in the position (giving up one move  to aim and get another is good)
 5) Inner 16 > Middle Edge > Edge
 6) 
 ## edges
@@ -29,6 +29,24 @@
 
 
 ## Bad habits
-1) if opponent cannot play there please dont waste time playing there
+1) if opponent cannot play there please dont waste time playing there (2 piece flips are basically unplayable please)
 **PLEASE** MY GOD
 2) Be mindful of stones you return and unpoisoning
+
+
+## General Tips
+When leaving an opening to target another spot, just because opponent dosent have access dosent mean its good try to think what happens when they try to get access
+
+Inner edge moves when opponent already has the edge are low prio becuz after u play opponent still got one move on edge so just go do smth else lol.
+
+Taking away opponent good move at the expense of 2 of yours is bad
+
+you might want to save a good move for later becuz...
+Just because when they play it opens up a new for you : 1 for 1
+It is still better if you can play first and then they cant play that move 1 for 0
+basically if u want to save moves think about this ya
+
+
+also jesus christ if you can use the inneredge opponent stone to hit the edge vs hit the inside just hit the ddge becuz if you hit the inside you effectively chop 2 moves with 1 lol
+
+breaking to inner edge is bad if you still have 2 or more moves on adjacent inner edges??
