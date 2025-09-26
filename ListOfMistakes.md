@@ -26,12 +26,16 @@
 3) dont be scared to hit a if the feed also flips the inner a 
 4) ** i needa work on this shit its okay to take edges if good instead of letting them hit more times **.
 5) Check adjacent edges before hitting inneredge/edge
+6) hitting inner a on top of opponent a is generally bad? 
 
 
 ## Bad habits
 1) if opponent cannot play there please dont waste time playing there (2 piece flips are basically unplayable please)
 **PLEASE** MY GOD
 2) Be mindful of stones you return and unpoisoning
+3) your goal is not to not break, its to break at a good timing.
+3) your goal is not to not break, its to break at a good timing.
+3) your goal is not to not break, its to break at a good timing.
 
 
 ## General Tips
@@ -63,3 +67,7 @@ when opponent plays to a edge checkwhat move opens up on adjacent edges because 
 4) try not to break to inner edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
 5) when opponent breaks to edge/inner edge check what moves have opened up as a result edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
 6) conversely when playing on edges/inner edges be mindful of what moves you open up because you poison your response. 
+
+
+
+brain damage is real pls send help
