@@ -58,6 +58,9 @@ break inner edge in a manner wherer you can continue
 dont need to touch places where opponent will flip 2 outer pieces just let him fk himself
 when opponent plays to a edge checkwhat move opens up on adjacent edges because he poisons his own response.
 
+middle a sucks becuz they tend to block each other if u need one middle a for another sequence dont play the first one.
+make use of opponent on c to attack
+middle edge playing into squares where the opponent has a hard time responding
 
 ## General Flow
 
@@ -67,7 +70,35 @@ when opponent plays to a edge checkwhat move opens up on adjacent edges because 
 4) try not to break to inner edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
 5) when opponent breaks to edge/inner edge check what moves have opened up as a result edge when you still have 2 moves on adjacent inner edge becuz it fucks you if you eliminate them both simultaenously
 6) conversely when playing on edges/inner edges be mindful of what moves you open up because you poison your response. 
+7) last box is a real thing 
 
+if u have to open 2 opening where its already bad for opponent to play is ok
 
+pre condition to taking the edge is that the response is bad... duh but also no duh
+bad meaning opens 2 spaces or 2 directions.
 
 brain damage is real pls send help
+
+middle game think in terms of areas.
+
+## WHen playing one space away
+
+WHen u play one space away and u make a hole u cant access it sucks
+
+## where did i go wrong i lost a friend
+if he has a quiet feed but u can play one away first u should - play before it gets difficult to play. 
+
+why are u so trigger happyyy - okay to play quiet moves if it forces him to open somewhere else for you to play.
+
+stacking on top of their a is so ufcking bad its unbelievable.
+i refuse to do this anymore now
+landing is also good if opponent one away makes hole they cannot access
+dont need to cover all their moves only need to cover their **quiet** moves. Imagine covering moves that you dont need to and giving them good opion
+bad habit covering one good move but opening up another one or even more.
+STOP PLAYING ONE AWAY AND COVER HIS GOOD EDGE MOVES OHMYFUCKINGGOD
+
+
+when to play the diagonal a from the double inner b?: need to find out
+theres this reoccuring theme where just because he play u can play something back dosent mean you cant play his move first, let him play something back and then play a third counter move
+rationale is 2-1 is better than 1-1
+check this when looking at pairs
