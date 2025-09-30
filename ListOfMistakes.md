@@ -102,3 +102,10 @@ when to play the diagonal a from the double inner b?: need to find out
 theres this reoccuring theme where just because he play u can play something back dosent mean you cant play his move first, let him play something back and then play a third counter move
 rationale is 2-1 is better than 1-1
 check this when looking at pairs
+when playing edge moves need to consider the shapes youre makingg 
+
+
+pattern: opponent one piece break to inner b, if u cut to inner a they cut down to a and still have their inner b move, so best to straight cut to a, they counter with b u play inner a they play inner b and ideally you can feed the hole.
+
+
+Pattern: he has one move but if he plays you can play. if you play he can further extend out and form pure line and play consecutively. dont be a dummy dumb dont let him 2for 0 is worse than 1for 1 no fucking shit
