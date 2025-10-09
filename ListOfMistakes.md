@@ -16,8 +16,10 @@
 ## Top Priorities - these do not take precedence over core
 1) Opponent good move
 2) playing moves before they become difficult to play
+3) Cutting back key diagonal access
 3) Odd spaces that you should jump first
 4) aiming for holes in the position (giving up one move  to aim and get another is good)
+5) playing a move that dosent open up moves (meaning it only gives them moves they already have)
 5) Inner 16 > Middle Edge > Edge
 6) 
 ## edges
@@ -27,7 +29,14 @@
 4) ** i needa work on this shit its okay to take edges if good instead of letting them hit more times **.
 5) Check adjacent edges before hitting inneredge/edge
 6) hitting inner a on top of opponent a is generally bad? 
+7) one away generally not good, unless when they feed u can take without flipping. Try to feed either c or b if possible.
+8) one away is only good if they cannot feed cuz of above and you can play one away and feed consecutively.
 
+## Late game
+
+Diagonal access is so fucking important pleaseee
+in general i think i just dont have enough time to make good decisions. need to play faster.
+in odd spaces can leave hole and play x if it means not eliminating both your moves by playing the inside one, its okay because u can cotinue to play after that.
 
 ## Bad habits
 1) if opponent cannot play there please dont waste time playing there (2 piece flips are basically unplayable please)
@@ -40,6 +49,9 @@
 
 ## General Tips
 When leaving an opening to target another spot, just because opponent dosent have access dosent mean its good try to think what happens when they try to get access
+
+
+When they are trying to gain access to a hole, better to poison for them / unpoison  that spot before they gain access so u can play the response to their gain access move easier 
 
 Inner edge moves when opponent already has the edge are low prio becuz after u play opponent still got one move on edge so just go do smth else lol.
 
@@ -109,3 +121,17 @@ pattern: opponent one piece break to inner b, if u cut to inner a they cut down 
 
 
 Pattern: he has one move but if he plays you can play. if you play he can further extend out and form pure line and play consecutively. dont be a dummy dumb dont let him 2for 0 is worse than 1for 1 no fucking shit
+attaching to your own piece generarlly better than double a .
+sometimes you just need a move to get himn to open up a new one for you ..
+dont need to play moves that he cannot play becuz he poisons his own moves, you want him to go there
+let your oppoent make mistakes stop giving him easy way out
+
+ask yourself: does he have any good moves? if not let him make mistakes  dont give him easy options.
+
+
+ENDGAME:
+
+1) Counting stones
+2) Hand Stopping/Tedomari: 
+
+Hitting a is good cuz it dosent increase opponents hand. just check that it dosent come back diagonally after being fed
